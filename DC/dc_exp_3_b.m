@@ -1,0 +1,22 @@
+clc;
+clear all;
+close all;
+pkg load communications
+symbols = 1:6;
+p=[0.30 0.25 0.20 0.12 0.08 0.05];
+disp("\nSymbols are");
+disp(symbols);
+disp("\nRespective probabilities are");
+disp(p);
+dict = huffmandict(symbols,p);
+disp("\nHuffman dictionary is");
+disp(dict);
+inputSig = randsrc(10,1,[symbols;p]);
+disp("\nRandom generated input symbols are");
+disp(inputSig);
+code = huffmanenco(inputSig,dict);
+disp("\nEncoded message is");
+disp(code);
+decode = huffmandeco(code,dict);
+disp("\nDecoded symbols are");
+disp(decode);
