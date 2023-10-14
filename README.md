@@ -35,3 +35,17 @@ measue the strength of the joint
 
 Step 3: identify the eigen values and eigen vector from the covariance matrix
 these vectors are the principal component values
+
+
+GMM
+#Gaussian mixture model
+#it is flexible
+#represents the probability distribution
+#comes as sum of mutliple weighted gassian diatribution
+#GMM will model data as a mixture of several gaussina distributions
+#could be a combination / cluster of different gaussian models
+#Each of the components represent a cluster
+
+#Gaussian model has a set of its own parameters
+#K-means performs hard clustering
+#GMM performs soft clustering
