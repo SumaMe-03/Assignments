@@ -12,7 +12,8 @@ Stepper Motor
 8.  Click on Output
 9.  Create HEX file
 10.  Open SST Flash
-11.  Click on Connect
-12.  dwlnoad/run
-13.  Choose hex file from objects
-14.  Run code
+11.  Options -> COM4 (what com is there)
+12.  Click on Connect
+13.  dwlnoad/run
+14.  Choose hex file from objects
+15.  Run code
