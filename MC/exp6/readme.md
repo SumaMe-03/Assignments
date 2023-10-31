@@ -1,1 +1,5 @@
-Exp 6
+Exp 7
+
+Display String on LED display
+
+
