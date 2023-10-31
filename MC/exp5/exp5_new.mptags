@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+__vector_relocate_H	D:\32364\pic18f\vector_relocate.h	2;"	d	line:2
+_reset	D:\32364\pic18f\vector_relocate.h	9;"	f	line:9	signature:(void)
+_startup	D:\32364\pic18f\vector_relocate.h	6;"	p	line:6	signature:(void)
+high_ISR	D:\32364\pic18f\vector_relocate.h	16;"	f	line:16	signature:(void)
+i	D:\32364\pic18f\exp5_new.c	11;"	l	line:11
+i	D:\32364\pic18f\exp5_new.c	5;"	l	line:5
+j	D:\32364\pic18f\exp5_new.c	5;"	l	line:5
+low_ISR	D:\32364\pic18f\vector_relocate.h	22;"	f	line:22	signature:(void)
+main	D:\32364\pic18f\exp5_new.c	10;"	f	line:10	signature:(void)
+msdelay	D:\32364\pic18f\exp5_new.c	4;"	f	line:4	signature:(unsigned int time)
+val	D:\32364\pic18f\exp5_new.c	12;"	l	line:12
