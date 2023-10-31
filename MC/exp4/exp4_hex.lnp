@@ -1,0 +1,3 @@
+"exp4.obj" 
+TO "exp4_hex" 
+PRINT(".\Listings\exp4_hex.m51") RAMSIZE(256) 
