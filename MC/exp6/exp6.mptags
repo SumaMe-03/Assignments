@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+LCD_DATA::PORTD	D:\32364\pic18f\exp6.c	4;"	d	line:4	file:
+LCD_command	D:\32364\pic18f\exp6.c	10;"	p	line:10	file:	signature:(unsigned char data)
+LCD_command	D:\32364\pic18f\exp6.c	53;"	f	line:53	signature:(unsigned char cmd)
+LCD_data	D:\32364\pic18f\exp6.c	11;"	p	line:11	file:	signature:(unsigned char data)
+LCD_data	D:\32364\pic18f\exp6.c	62;"	f	line:62	signature:(unsigned char data)
+LCD_write_string	D:\32364\pic18f\exp6.c	12;"	p	line:12	file:	signature:(static char *str)
+LCD_write_string	D:\32364\pic18f\exp6.c	71;"	f	line:71	signature:(static char *str)
+__vector_relocate_H	D:\32479_N8\PIC18F\vector_relocate.h	2;"	d	line:2
+_reset	D:\32479_N8\PIC18F\vector_relocate.h	9;"	f	line:9	signature:(void)
+_startup	D:\32479_N8\PIC18F\vector_relocate.h	6;"	p	line:6	signature:(void)
+ctrl::PORTE	D:\32364\pic18f\exp6.c	3;"	d	line:3	file:
+en::PORTEbits.RE2	D:\32364\pic18f\exp6.c	7;"	d	line:7	file:
+high_ISR	D:\32479_N8\PIC18F\vector_relocate.h	16;"	f	line:16	signature:(void)
+i	D:\32364\pic18f\exp6.c	36;"	l	line:36
+i	D:\32364\pic18f\exp6.c	72;"	l	line:72
+init_LCD	D:\32364\pic18f\exp6.c	42;"	f	line:42	signature:(void)
+init_LCD	D:\32364\pic18f\exp6.c	9;"	p	line:9	file:	signature:(void)
+j	D:\32364\pic18f\exp6.c	36;"	l	line:36
+low_ISR	D:\32479_N8\PIC18F\vector_relocate.h	22;"	f	line:22	signature:(void)
+main	D:\32364\pic18f\exp6.c	15;"	f	line:15	signature:(void)
+msdelay	D:\32364\pic18f\exp6.c	13;"	p	line:13	file:	signature:(unsigned int time)
+msdelay	D:\32364\pic18f\exp6.c	35;"	f	line:35	signature:(unsigned int time)
+rs::PORTEbits.RE0	D:\32364\pic18f\exp6.c	5;"	d	line:5	file:
+rw::PORTEbits.RE1	D:\32364\pic18f\exp6.c	6;"	d	line:6	file:
+var1	D:\32364\pic18f\exp6.c	16;"	l	line:16
+var2	D:\32364\pic18f\exp6.c	17;"	l	line:17
