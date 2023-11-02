@@ -1,1 +1,3 @@
-#DBMS Assignments
+DBMS Assignments
+
+VIVA QUESTIONS
