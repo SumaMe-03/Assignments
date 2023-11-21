@@ -4,7 +4,7 @@ mov r0, #29H
 mov r1, #2EH
 Lbl1:mov A, @r0
 mov @r1,A
-DEC r0
-DEC r1
+INC r0
+INC r1
 DJNZ r2, Lbl1
 END
